@@ -1,2 +1,2 @@
 # QuickHull
-Java implementation of Quick Hull algorithm 
+Java implementation of QuickHull algorithm 
